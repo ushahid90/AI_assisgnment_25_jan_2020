@@ -1,16 +1,22 @@
-Class 1 (solution)
-name="your name"
-age=21
-className="AI"
-uni="your university name"
+
+name="usman"
+age=28
+className="AI PIAIC"
+uni="PIAIC"
 message="""Hello {u_name} \nage {u_age}\nYour application is accepted for {u_class_name} at {u_uni}""".format(u_name=name, u_age=age, u_class_name=className, u_uni=uni)
 print(message)
 
-Class 2 (solution)
+
+
+
 radius=5
 pi=3.14
 area_circle=pi*radius**2
 print(area_circle)
+
+
+
+
 
 cities=["Faisalabad","Islamabad","Karachi","Lahore","Quetta"]
 result=[93.4, 95, 98.7, 87.4, 83.02]
